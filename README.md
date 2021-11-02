@@ -1,1 +1,1 @@
-# embedded-snippets-coppel
+# Embedded snippets @ Coppel
